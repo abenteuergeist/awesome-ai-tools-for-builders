@@ -1,0 +1,88 @@
+{
+  "updated": "2026-09-03",
+  "stacks": [
+    {
+      "id": "app",
+      "name": "Build a mobile app",
+      "for": "Solo devs and small teams shipping iOS and Android apps",
+      "steps": [
+        { "role": "Framework", "domain": "expo.dev", "why": "React Native without the native setup. OTA updates, EAS builds, app store submission." },
+        { "role": "Code editor", "domain": "cursor.com", "why": "The AI editor most indie devs actually use day to day." },
+        { "role": "Backend", "domain": "supabase.com", "why": "Postgres, auth and storage in one, free tier survives a launch." },
+        { "role": "Payments", "domain": "revenuecat.com", "why": "Subscriptions across both stores, paywalls without writing StoreKit." },
+        { "role": "Analytics", "domain": "posthog.com", "why": "Events, funnels and session replay, generous free tier." },
+        { "role": "Errors", "domain": "sentry.io", "why": "Crash reports with the stack trace that matters." },
+        { "role": "Attribution", "domain": "adjust.com", "why": "Know which ad brought the install once you spend on ads." }
+      ]
+    },
+    {
+      "id": "saas",
+      "name": "Ship a SaaS",
+      "for": "Web products with a login and a monthly price",
+      "steps": [
+        { "role": "Framework and hosting", "domain": "vercel.com", "why": "Next.js on Vercel, deploys on push, edge functions when you need them." },
+        { "role": "Database", "domain": "convex.dev", "why": "Realtime by default, TypeScript end to end. Supabase if you want plain Postgres." },
+        { "role": "Auth", "domain": "clerk.com", "why": "Sign-in, orgs and user management done in an afternoon." },
+        { "role": "Payments", "domain": "stripe.com", "why": "Checkout, subscriptions, webhooks. Polar or Lemon Squeezy if you want merchant of record." },
+        { "role": "UI", "domain": "ui.shadcn.com", "why": "Components you own, styled with Tailwind." },
+        { "role": "Email", "domain": "react.email", "why": "Transactional email written as React components." },
+        { "role": "Product analytics", "domain": "posthog.com", "why": "Flags, experiments and replays without a second vendor." }
+      ]
+    },
+    {
+      "id": "vibe",
+      "name": "Vibe-code a prototype",
+      "for": "Idea to something clickable in a weekend, no team",
+      "steps": [
+        { "role": "Full app from a prompt", "domain": "lovable.dev", "why": "Fastest path from a paragraph to a deployed app with auth and a database." },
+        { "role": "Alternative", "domain": "bolt.new", "why": "Same idea, more control over the code in the browser." },
+        { "role": "UI screens", "domain": "v0.dev", "why": "Generate the screens, paste them into your own codebase." },
+        { "role": "Editor for the second week", "domain": "cursor.com", "why": "When the prompt-only tools stop being enough." },
+        { "role": "Backend", "domain": "supabase.com", "why": "Every vibe tool speaks Supabase." },
+        { "role": "Landing page", "domain": "framer.com", "why": "Design and publish the marketing site without code." }
+      ]
+    },
+    {
+      "id": "agents",
+      "name": "Build agents and automations",
+      "for": "Workflows that call models, scrape, and act",
+      "steps": [
+        { "role": "Model routing", "domain": "openrouter.ai", "why": "One key for every model, switch providers without a redeploy." },
+        { "role": "Workflow builder", "domain": "n8n.io", "why": "Self-hostable automations with real branching, cheaper than Zapier at scale." },
+        { "role": "Web data", "domain": "firecrawl.dev", "why": "Turn any site into clean markdown for the model." },
+        { "role": "Search", "domain": "exa.ai", "why": "Search built for agents, not for humans." },
+        { "role": "Tool integrations", "domain": "composio.dev", "why": "Hundreds of app integrations as agent tools." },
+        { "role": "Voice", "domain": "vapi.ai", "why": "Phone and voice agents without building the telephony." },
+        { "role": "Speech", "domain": "elevenlabs.io", "why": "Voices that do not sound like a voicemail." }
+      ]
+    },
+    {
+      "id": "content",
+      "name": "Make content and video",
+      "for": "Short video, thumbnails, and posts at volume",
+      "steps": [
+        { "role": "Programmatic video", "domain": "remotion.dev", "why": "Videos as React code, renders in CI, perfect for data-driven clips." },
+        { "role": "AI video", "domain": "higgsfield.ai", "why": "Image-to-video with consistent characters." },
+        { "role": "Avatars", "domain": "heygen.com", "why": "Talking-head videos from a script." },
+        { "role": "Images", "domain": "midjourney.com", "why": "Still the reference for stylized stills." },
+        { "role": "Editing", "domain": "capcut.com", "why": "Captions and cuts on the phone, free." },
+        { "role": "Scheduling", "domain": "postiz.com", "why": "Open source scheduler for every network." },
+        { "role": "Newsletter", "domain": "beehiiv.com", "why": "Growth features built in, referral program included." }
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Launch and grow",
+      "for": "The first 1,000 users after the product exists",
+      "steps": [
+        { "role": "Waitlist and forms", "domain": "typeform.com", "why": "Forms people finish." },
+        { "role": "Outbound", "domain": "instantly.ai", "why": "Cold email at volume with warmup and rotation." },
+        { "role": "Lead data", "domain": "clay.com", "why": "Enrich a list from 50 sources in one sheet." },
+        { "role": "SEO", "domain": "ahrefs.com", "why": "Know what people search before you write." },
+        { "role": "Link in bio", "domain": "beacons.ai", "why": "One link for every profile." },
+        { "role": "Community", "domain": "skool.com", "why": "Paid communities with courses, no plugins." },
+        { "role": "Be seen", "domain": "kinged.lol", "why": "The #1 spot for AI tools, $1 an hour. You are reading it." }
+      ]
+    }
+  ]
+}
