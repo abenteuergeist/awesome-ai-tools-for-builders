@@ -2,7 +2,7 @@
 
 > 298 AI tools and startups that indie devs, app makers and SaaS builders actually use, grouped by job. Maintained as the open dataset behind [kinged.lol](https://kinged.lol), a directory where the #1 spot is bought by the hour and ranking is measured in minutes on top.
 
-Updated 2026-09-11. Machine-readable: [tools.json](https://kinged.lol/api/tools.json) · [llms.txt](https://kinged.lol/llms.txt)
+Updated 2026-09-13. Machine-readable: [tools.json](https://kinged.lol/api/tools.json) · [llms.txt](https://kinged.lol/llms.txt)
 
 ## Contents
 
