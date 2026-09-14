@@ -7,7 +7,7 @@ Updated 2026-09-13. Machine-readable: [tools.json](https://kinged.lol/api/tools.
 ## Contents
 
 - [Recommended stacks by job](#recommended-stacks-by-job)
-- [AI Agent Tools](#ai-agent-tools) (22)
+- [AI Agent Tools](#ai-agent-tools) (23)
 - [Development Tools](#development-tools) (21)
 - [AI Video](#ai-video) (20)
 - [Marketing](#marketing) (16)
@@ -178,6 +178,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 - **[Respell](https://respell.ai)** — Build AI workflows with natural language. Best for teams building AI automations. [[details](https://kinged.lol/t/respell.ai)]
 - **[Rube](https://rube.app)** — Universal MCP server for AI agents. Best for developers wiring up agents. [[details](https://kinged.lol/t/rube.app)]
 - **[Shipable](https://shipable.ai)** — Platform for building AI agents. Best for teams building AI agents. [[details](https://kinged.lol/t/shipable.ai)]
+- **[Solgrok](https://lmajster.github.io/sgrok/)** — Autonomous 24/7 Solana creator-ops AI agent that promotes $SGROK, claims creator fees, and sweeps rewards. Best for Solana builders running agent-led creator ops. [[details](https://kinged.lol/t/lmajster.github.io)]
 - **[STRING](https://string.com)** — Agent platform for workflow automation. Best for teams automating operations. [[details](https://kinged.lol/t/string.com)]
 - **[Zapier](https://zapier.com)** — No code automation across apps. Best for founders automating busywork. [[details](https://kinged.lol/t/zapier.com)]
 
