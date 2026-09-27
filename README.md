@@ -302,6 +302,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 - **[Design Arena](https://designarena.ai)** — AI design comparison and evaluation. Best for Designers refining concepts. [[details](https://kinged.lol/t/designarena.ai)]
 - **[Design Prompts](https://designprompts.dev)** — AI design style explorer. Best for Designers exploring styles. [[details](https://kinged.lol/t/designprompts.dev)]
 - **[Designs AI](https://designs.ai)** — All in one AI design suite. Best for Marketers needing varied assets. [[details](https://kinged.lol/t/designs.ai)]
+- **[Raphael](https://raphael.app)** — AI creative workspace for image, video, and design production. Best for teams iterating creative assets in one place. [[details](https://raphael.app)]
 - **[Google Stitch](https://stitch.withgoogle.com)** — AI generation of website UI. Best for Founders drafting web UI. [[details](https://kinged.lol/t/stitch.withgoogle.com)]
 - **[MagicPath.ai](https://magicpath.ai)** — AI design tool for user interfaces. Best for Founders prototyping interfaces. [[details](https://kinged.lol/t/magicpath.ai)]
 - **[Masko](https://masko.ai)** — AI mascot generator for brands. Best for Founders building brand identity. [[details](https://kinged.lol/t/masko.ai)]
