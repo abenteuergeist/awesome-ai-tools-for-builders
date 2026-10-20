@@ -470,6 +470,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 
 ## AI Research
 
+- **[Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899)** — Base x402 research reports and chat for agents. Best for Agents needing paid research via x402 USDC. [[details](https://kinged.lol/t/agent-tools.cloud)]
 - **[Gemini](https://gemini.google.com)** — Google AI model for research and analysis. Best for Founders doing market research. [[details](https://kinged.lol/t/gemini.google.com)]
 - **[Google NotebookLM](https://notebooklm.google.com)** — AI research assistant for your documents. Best for Researchers and writers. [[details](https://kinged.lol/t/notebooklm.google.com)]
 - **[H Company](https://hcompany.ai)** — AI agent research lab. Best for AI researchers and builders. [[details](https://kinged.lol/t/hcompany.ai)]
