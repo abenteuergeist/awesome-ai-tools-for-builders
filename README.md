@@ -209,6 +209,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 
 - **[Airpost](https://airpost.ai)** — AI video ad creation. Best for Marketers running video ads. [[details](https://kinged.lol/t/airpost.ai)]
 - **[Basedlabs AI](https://basedlabs.ai)** — Long form AI video generation. Best for AI video creators. [[details](https://kinged.lol/t/basedlabs.ai)]
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X). Best for Creators wanting free trial video credits.
 - **[Fastlane AI](https://usefastlane.ai)** — AI short form content creation. Best for Short form content creators. [[details](https://kinged.lol/t/usefastlane.ai)]
 - **[Google Flow](https://labs.google)** — AI filmmaking studio for long videos. Best for AI filmmakers and creators. [[details](https://kinged.lol/t/labs.google)]
 - **[Hailuo AI](https://hailuoai.video)** — AI video generation from prompts. Best for creators and marketers. [[details](https://kinged.lol/t/hailuoai.video)]
@@ -393,6 +394,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 
 - **[Anymark](https://anymark.co)** — Handcrafted logos and brand kits. Best for Founders building a brand. [[details](https://kinged.lol/t/anymark.co)]
 - **[Canva](https://canva.com)** — Drag and drop graphic design tool. Best for Marketers and non designers. [[details](https://kinged.lol/t/canva.com)]
+- **[TeslaWraps](https://teslawraps.design)** — Browser Tesla Paint Shop wrap designer; core editing free, no account. Best for Tesla owners designing wraps.
 - **[Excalidraw](https://excalidraw.com)** — Free hand drawn diagram and whiteboard tool. Best for Developers mapping out ideas. [[details](https://kinged.lol/t/excalidraw.com)]
 - **[LottieFiles](https://lottiefiles.com)** — Create and ship lightweight animations. Best for Designers and developers adding motion. [[details](https://kinged.lol/t/lottiefiles.com)]
 - **[Paper](https://paper.design)** — Interface design and sharing tool. Best for Interface design teams. [[details](https://kinged.lol/t/paper.design)]
@@ -518,6 +520,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 ## AI Image
 
 - **[Leonardo AI](https://leonardo.ai)** — AI image generation for creative assets. Best for Designers and creative teams. [[details](https://kinged.lol/t/leonardo.ai)]
+- **[PromptImage](https://promptimage.cloud)** — Free AI image gallery and image/video generation studio. Best for Creators needing freemium image/video tools.
 - **[remove.bg](https://remove.bg)** — Automatic image background removal. Best for Fast background removal. [[details](https://kinged.lol/t/remove.bg)]
 
 ## AI Prompts
