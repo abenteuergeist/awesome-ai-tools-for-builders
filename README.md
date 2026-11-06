@@ -32,7 +32,7 @@ Updated 2026-10-20. Machine-readable: [tools.json](https://kinged.lol/api/tools.
 - [AI Search](#ai-search) (4)
 - [Video Editing](#video-editing) (4)
 - [Community Platform](#community-platform) (4)
-- [AI Research](#ai-research) (3)
+- [AI Research](#ai-research) (4)
 - [AI Scraping](#ai-scraping) (3)
 - [Forms](#forms) (3)
 - [Link Management](#link-management) (3)
@@ -473,6 +473,7 @@ What we would use this month, updated 2026-09-03. Full version with links: [king
 - **[Gemini](https://gemini.google.com)** — Google AI model for research and analysis. Best for Founders doing market research. [[details](https://kinged.lol/t/gemini.google.com)]
 - **[Google NotebookLM](https://notebooklm.google.com)** — AI research assistant for your documents. Best for Researchers and writers. [[details](https://kinged.lol/t/notebooklm.google.com)]
 - **[H Company](https://hcompany.ai)** — AI agent research lab. Best for AI researchers and builders. [[details](https://kinged.lol/t/hcompany.ai)]
+- **[DisconfirmAI](https://disconfirmai.com/en)** — Investment research platform that looks for evidence against a thesis before conviction. Best for investors doing research. [[details](https://disconfirmai.com/en)]
 
 ## AI Scraping
 
